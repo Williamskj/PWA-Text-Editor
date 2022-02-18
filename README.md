@@ -3,17 +3,20 @@
 ## Table of Contents:
   1. [Description](#description) 
   2. [UserStory](#UserStory)  
+  3. [Screenshots](#Screenshots)
   4. [License](#License)
   5. [GitHub](#GitHub)
-  6. [Link](#Link)
+  6 [Link](#Link)
 
 ## Description
-This is a small tech blog thrown together to use Sequalize, Express.js, Node, Bycript, and other tools. It's primary use is to allow clients to create new profiles, create posts, and comment on other user's posts.
+This is a Progressive Web Application (PWA) Text Editor that use React and webpack to make a fully functional "front and back end" AKA a communative client and server base, with working a Database, along with RESTful routes.
 
 ## UserStory
-AS A manager at an internet retail company
-I WANT a back end for my e-commerce website that uses the latest technologies
-SO THAT my company can compete with other e-commerce companies
+AS A developer
+I WANT to create notes or code snippets with or without an internet connection
+SO THAT I can reliably retrieve them for later use
+
+## Screenshots
 
 ## License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -22,4 +25,4 @@ SO THAT my company can compete with other e-commerce companies
 Williamskj
 
 ## Link
-https://homework-12-23-2021.herokuapp.com/
+https://homework-02-04-22.herokuapp.com/
