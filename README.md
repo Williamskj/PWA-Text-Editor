@@ -17,6 +17,7 @@ I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
 
 ## Screenshots
+<img width="1280" alt="Screenshot 2022-02-18 105353" src="https://user-images.githubusercontent.com/89874192/154745065-d1799b74-a63e-4f9e-939c-a2ebf6a617b4.png">
 
 ## License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
